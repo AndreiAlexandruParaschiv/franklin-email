@@ -1,0 +1,14 @@
+.mj-hero {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    css-class: 'hero';
+}
+
+.mj-hero-min-height {
+    height: 192px;
+}
+
+.mj-hero-text {
+    color: #fff;
+}
