@@ -11,7 +11,7 @@ to Copy & Paste it in their preferred Marketing Automation tool, or to directly 
 E-Mail client.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
+- Preview: https://main--franklin-email--andreialexandruparaschiv.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
 ## How it works
